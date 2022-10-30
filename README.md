@@ -1,4 +1,4 @@
-# Waterlogged-area-in-Khulna-district-of-Bangladesh-
+# Waterlogged area in Khulna district of Bangladesh
 A study on BADC implemented measures to minimize waterlogged area in Khulna district of Bangladesh by Remote Sensing and GIS technologies.
 Background:
 Khulna is a southwest important district of Bangladesh that has been experiencing water-related problems for a long time. In the dry season, 
