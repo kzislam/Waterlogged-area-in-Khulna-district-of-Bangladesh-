@@ -15,7 +15,9 @@ effect of waterlogged. The study is designed to identify the Khulna district's w
 waterlogged areas in the Beel Dakatia region using GIS and remote sensing techniques. 
 
 Objectives:
-	To identify the waterlogged area in Khulna district by using remote sensing technologies.
-	To study the impact of BADC implemented measures to minimize waterlogged areas.
-	To generate a waterlogged area map in the Khulna district.
+
+1.	To identify the waterlogged area in Khulna district by using remote sensing technologies.
+2.  To study the impact of BADC implemented measures to minimize waterlogged areas.
+3. 	To generate a waterlogged area map in the Khulna district.
+
 Duration: July 2021 to 30 June 2022
